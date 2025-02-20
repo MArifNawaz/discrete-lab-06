@@ -6,3 +6,4 @@ Console.WriteLine("Grocery List:");
 
 
 groceries.Add("Sugar");
+groceries.Add("Yogurts");
