@@ -3,3 +3,6 @@ Console.WriteLine("Grocery List:");
       foreach (var item in groceries) {
             Console.WriteLine("- " + item);
        }
+
+
+groceries.Add("Sugar");
